@@ -18,7 +18,7 @@ public class OperatorTest {
 
 	@Test
 	public void test() {
-	assertEquals (8, Obj.add(a, b));
+	assertEquals (7, Obj.add(a, b));
 	}
 
 }

@@ -20,7 +20,7 @@ int a;
 
 	@Test
 	public void testMul() {
-	assertEquals(111, Obj.mul(a, a));
+	assertEquals(111, Obj.mul(a));
 	
 	}
 
